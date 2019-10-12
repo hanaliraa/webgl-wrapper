@@ -23,4 +23,4 @@ Following are some samples which are rendered using WebGL Wrapper. Their source 
 - Email maintainer at [emad.bin.abid@gmail.com](emad.bin.abid@gmail.com)
 - GitHub discussions
 
-it is the hana's change
+Hana was here
